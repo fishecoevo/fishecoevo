@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fishecoevo!
 - 💧 Water rules everything around me
-- 🌱 I’m currently learning R Shiny and Markdown
-- 💞️ I’m looking to collaborate on environmental and public health technology
+- 👩‍💻 I’m currently learning R Shiny and Markdown
+- 🌳 I’m looking to collaborate on environmental and public health technology
 - 📫 You can reach me at kennedypjames@gmail.com
 
 <!---
